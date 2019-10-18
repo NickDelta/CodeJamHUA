@@ -54,7 +54,7 @@ namespace Google1B2009
                     int f = int.Parse(tokenQueue.Dequeue());
 
                     HashSet<string> features = new HashSet<string>();
-                    for (int j = 0; j < f; i++)
+                    for (int j = 0; j < f; j++)
                     {
                         features.Add(tokenQueue.Dequeue());
                     }

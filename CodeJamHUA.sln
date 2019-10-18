@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29201.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google1B2009", "Google1B2009\Google1B2009.csproj", "{9C93E437-C0BF-43D4-B42C-79334DC42E10}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E57F5462-8BAE-4EEA-A7B5-3C9B8FA0F812}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google1B_A2009CSharp", "Google1B2009CSharp\Google1B_A2009CSharp.csproj", "{9C93E437-C0BF-43D4-B42C-79334DC42E10}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
